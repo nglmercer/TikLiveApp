@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>TikWAP docs Blog</title>
-        <link>https://nglmercer.github.io/TikLiveApp-DOCS/blog</link>
+        <link>https://nglmercer.github.io/blog</link>
         <description>TikWAP docs Blog</description>
         <lastBuildDate>Tue, 05 Mar 2024 21:56:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -10,17 +10,17 @@
         <language>en</language>
         <item>
             <title><![CDATA[info test]]></title>
-            <link>https://nglmercer.github.io/TikLiveApp-DOCS/blog/INFO</link>
-            <guid>https://nglmercer.github.io/TikLiveApp-DOCS/blog/INFO</guid>
+            <link>https://nglmercer.github.io/blog/INFO</link>
+            <guid>https://nglmercer.github.io/blog/INFO</guid>
             <pubDate>Tue, 05 Mar 2024 21:56:53 GMT</pubDate>
             <description><![CDATA[user melser]]></description>
             <content:encoded><![CDATA[<p>user melser
 dev games web and interactive apps
 desarollo de juegos web apps interactivos</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="getting-started">Getting Started<a href="https://nglmercer.github.io/TikLiveApp-DOCS/blog/INFO#getting-started" class="hash-link" aria-label="Direct link to Getting Started" title="Direct link to Getting Started">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="getting-started">Getting Started<a href="https://nglmercer.github.io/blog/INFO#getting-started" class="hash-link" aria-label="Direct link to Getting Started" title="Direct link to Getting Started">​</a></h2>
 <p>empezando y creando varios ejemplos</p>
 <p>solamente revisa mis projectos</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="roadmap">Roadmap<a href="https://nglmercer.github.io/TikLiveApp-DOCS/blog/INFO#roadmap" class="hash-link" aria-label="Direct link to Roadmap" title="Direct link to Roadmap">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="roadmap">Roadmap<a href="https://nglmercer.github.io/blog/INFO#roadmap" class="hash-link" aria-label="Direct link to Roadmap" title="Direct link to Roadmap">​</a></h2>
 <ul class="contains-task-list containsTaskList_mC6p">
 <li class="task-list-item"><input type="checkbox" disabled="" checked=""> <!-- -->desarrollo de una plataforma para la comunidad</li>
 <li class="task-list-item"><input type="checkbox" disabled=""> <!-- -->terminar el projecto</li>
@@ -34,8 +34,8 @@ datos y mas datos</p>
         </item>
         <item>
             <title><![CDATA[Welcome]]></title>
-            <link>https://nglmercer.github.io/TikLiveApp-DOCS/blog/welcome</link>
-            <guid>https://nglmercer.github.io/TikLiveApp-DOCS/blog/welcome</guid>
+            <link>https://nglmercer.github.io/blog/welcome</link>
+            <guid>https://nglmercer.github.io/blog/welcome</guid>
             <pubDate>Thu, 26 Aug 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[Docusaurus blogging features are powered by the blog plugin.]]></description>
             <content:encoded><![CDATA[<p><a href="https://docusaurus.io/docs/blog" target="_blank" rel="noopener noreferrer">Docusaurus blogging features</a> are powered by the <a href="https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog" target="_blank" rel="noopener noreferrer">blog plugin</a>.</p>
@@ -47,7 +47,7 @@ datos y mas datos</p>
 <li><code>2019-05-30-welcome/index.md</code></li>
 </ul>
 <p>Una carpeta de publicaciones de blog puede resultar conveniente para ubicar imágenes de publicaciones de blog:</p>
-<p><img decoding="async" loading="lazy" alt="Docusaurus Peluche" src="https://nglmercer.github.io/TikLiveApp-DOCS/assets/images/docusaurus-plushie-banner-a60f7593abca1e3eef26a9afa244e4fb.jpeg" width="1500" height="500" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="Docusaurus Peluche" src="https://nglmercer.github.io/assets/images/docusaurus-plushie-banner-a60f7593abca1e3eef26a9afa244e4fb.jpeg" width="1500" height="500" class="img_ev3q"></p>
 <p>¡El blog también admite etiquetas!</p>
 <p><strong>Y si no quieres un blog</strong>: simplemente elimina este directorio y usa <code>blog: false</code> en tu configuración de Docusaurus.</p>]]></content:encoded>
             <category>facebook</category>
@@ -56,8 +56,8 @@ datos y mas datos</p>
         </item>
         <item>
             <title><![CDATA[MDX Blog Post]]></title>
-            <link>https://nglmercer.github.io/TikLiveApp-DOCS/blog/mdx-blog-post</link>
-            <guid>https://nglmercer.github.io/TikLiveApp-DOCS/blog/mdx-blog-post</guid>
+            <link>https://nglmercer.github.io/blog/mdx-blog-post</link>
+            <guid>https://nglmercer.github.io/blog/mdx-blog-post</guid>
             <pubDate>Sun, 01 Aug 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[Blog posts support Docusaurus Markdown features, such as MDX.]]></description>
             <content:encoded><![CDATA[<p>Blog posts support <a href="https://docusaurus.io/docs/markdown-features" target="_blank" rel="noopener noreferrer">Docusaurus Markdown features</a>, such as <a href="https://mdxjs.com/" target="_blank" rel="noopener noreferrer">MDX</a>.</p>
@@ -66,8 +66,8 @@ datos y mas datos</p>
         </item>
         <item>
             <title><![CDATA[Long Blog Post]]></title>
-            <link>https://nglmercer.github.io/TikLiveApp-DOCS/blog/long-blog-post</link>
-            <guid>https://nglmercer.github.io/TikLiveApp-DOCS/blog/long-blog-post</guid>
+            <link>https://nglmercer.github.io/blog/long-blog-post</link>
+            <guid>https://nglmercer.github.io/blog/long-blog-post</guid>
             <pubDate>Wed, 29 May 2019 00:00:00 GMT</pubDate>
             <description><![CDATA[esto es un summary post largo,]]></description>
             <content:encoded><![CDATA[<p>esto es un summary post largo,</p>
@@ -93,8 +93,8 @@ datos y mas datos</p>
         </item>
         <item>
             <title><![CDATA[1! Blog Post]]></title>
-            <link>https://nglmercer.github.io/TikLiveApp-DOCS/blog/1!-blog-post</link>
-            <guid>https://nglmercer.github.io/TikLiveApp-DOCS/blog/1!-blog-post</guid>
+            <link>https://nglmercer.github.io/blog/1!-blog-post</link>
+            <guid>https://nglmercer.github.io/blog/1!-blog-post</guid>
             <pubDate>Tue, 28 May 2019 00:00:00 GMT</pubDate>
             <description><![CDATA[El cliente es muy importante, el cliente será seguido por el cliente. El elemento infantil de las ultratricias dignissim. Recibí algunos resultados de CNN en ese momento. El cliente está muy contento.]]></description>
             <content:encoded><![CDATA[<p>El cliente es muy importante, el cliente será seguido por el cliente. El elemento infantil de las ultratricias dignissim. Recibí algunos resultados de CNN en ese momento. El cliente está muy contento.</p>]]></content:encoded>
