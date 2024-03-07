@@ -16,8 +16,8 @@ const config = {
   url: 'https://localhost:3000',
   // Establece la ruta /<baseUrl>/ bajo la cual se sirve tu sitio
   // Para despliegue en GitHub Pages, suele ser '/<nombreProyecto>/'
-  baseUrl: '/',
-
+  baseUrl: '/TikLiveApp-DOCS/',
+  //https://github.com/nglmercer/TikLiveApp-DOCS
   // Configuración para despliegue en GitHub Pages.
   // Si no estás utilizando GitHub Pages, no necesitas esto.
   organizationName: 'melserver', // Por lo general, tu nombre de usuario u organización de GitHub.
@@ -68,7 +68,7 @@ const config = {
       navbar: {
         title: 'APP docs',
         logo: {
-          alt: 'Logo del sitio',
+          alt: 'Logo',
           src: 'img/logo.svg',
         },
         items: [
@@ -105,16 +105,16 @@ const config = {
             title: 'Comunidad',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'tiktok',
+                href: 'https://www.tiktok.com/@melserng',
               },
               {
                 label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                href: 'https://discord.gg/kqj7Ev3Uzr',
               },
               {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                label: 'github',
+                href: 'https://github.com/nglmercer',
               },
             ],
           },
@@ -132,7 +132,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project. ft Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} TiktokLiveWebApp. by melser.`,
       },
       prism: {
         theme: prismThemes.oceanicNext,
