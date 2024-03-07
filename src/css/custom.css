@@ -1,0 +1,83 @@
+/**
+ * Cualquier CSS incluido aquí será global. La plantilla clásica
+ * incluye Infima por defecto. Infima es un framework CSS diseñado
+ * para funcionar bien en sitios web centrados en el contenido.
+ */
+ @keyframes fade-in {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+.show-more-button {
+  animation: fade-in 3s ease-in-out;
+}
+
+.show-more-active {
+  animation: fade-out 3s ease-in-out;
+}
+
+.show-less-active {
+  animation: fade-in 3s ease-in-out;
+}
+@keyframes fade-out {
+  from {
+    opacity: 1;
+  }
+  to {
+    opacity: 0;
+  }
+}
+body {
+  transition: 1s;
+  font: 1em sans-serif;
+  font-size: large;
+}
+.image-grid {
+  animation: fade-in 1s ease-in-out;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  gap: 5px;
+  overflow: hidden;
+}
+
+.image-item {
+  animation: fade-in 1s ease-in-out;
+  background-color: rgba(14, 1, 26, 0.5);
+  border: 1px solid #1f1f1f2f;
+  border-radius: 5px;
+  min-width: 150px;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
+  transition: box-shadow 0.3s;
+}
+
+.image-item:hover {
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.8);
+}
+
+/* Puedes sobrescribir las variables predeterminadas de Infima aquí. */
+:root {
+  --ifm-color-primary: #572895;
+  --ifm-color-primary-dark: #00639c;
+  --ifm-color-primary-darker: #451386;
+  --ifm-color-primary-darkest: #0075b9;
+  --ifm-color-primary-light: #3c0980;
+  --ifm-color-primary-lighter: #005586;
+  --ifm-color-primary-lightest: #006ba8;
+  --ifm-code-font-size: 95%;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.588);
+}
+
+/* Por preocupaciones de legibilidad, deberías elegir una paleta más clara en el modo oscuro. */
+[data-theme='dark'] {
+  --ifm-color-primary: #5f3e8b;
+  --ifm-color-primary-dark: #00639c;
+  --ifm-color-primary-darker: #451386;
+  --ifm-color-primary-darkest: #0075b9;
+  --ifm-color-primary-light: #3c0980;
+  --ifm-color-primary-lighter: #005586;
+  --ifm-color-primary-lightest: #006ba8;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.508);
+}
