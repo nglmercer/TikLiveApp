@@ -13,17 +13,17 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Establece aquí la URL de producción de tu sitio
-  url: 'https://localhost:3000',
+  url: 'https://nglmercer.github.io/',
   // Establece la ruta /<baseUrl>/ bajo la cual se sirve tu sitio
   // Para despliegue en GitHub Pages, suele ser '/<nombreProyecto>/'
-  baseUrl: '/TikLiveApp-DOCS/',
+  baseUrl: '/TikLiveApp-DOCS',
   //https://github.com/nglmercer/TikLiveApp-DOCS
   // Configuración para despliegue en GitHub Pages.
   // Si no estás utilizando GitHub Pages, no necesitas esto.
-  organizationName: 'melserver', // Por lo general, tu nombre de usuario u organización de GitHub.
-  projectName: 'tiktokLive', // Por lo general, el nombre de tu repositorio.
-
-  onBrokenLinks: 'throw',
+  organizationName: 'nglmercer', // Por lo general, tu nombre de usuario u organización de GitHub.
+  projectName: 'TikLiveApp-DOCS', // Por lo general, el nombre de tu repositorio.
+  deploymentBranch: 'gh-pages',
+  onBrokenLinks: 'ignore',
   onBrokenMarkdownLinks: 'warn',
 
   // Aunque no utilices internacionalización, puedes usar este campo para definir
@@ -31,7 +31,7 @@ const config = {
   // puedes reemplazar "en" por "zh-Hans".
   i18n: {
     defaultLocale: 'en',
-    locales: ['en', 'es'],
+    locales: ['en'],
   },
 
   presets: [
