@@ -1,0 +1,9 @@
+{
+    "label": "MixitupApp",
+    "position": 4,
+    "link": {
+        "type": "generated-index",
+        "description": "MixitupApp Api docs. Mix It Up es un bot de streaming versátil que ofrece funciones para transmisiones en Twitch, YouTube y Trovo.
+        Aquí tienes lo que necesitas saber: https://mixitupapp.com/ "
+    }
+}
