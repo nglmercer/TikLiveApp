@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[3536],{2217:e=>{e.exports=JSON.parse('{"label":"Streamers","permalink":"/TikLiveApp/en/blog/tags/streamers","allTagsPath":"/TikLiveApp/en/blog/tags","count":2,"unlisted":false}')}}]);

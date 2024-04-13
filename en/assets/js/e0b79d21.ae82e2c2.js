@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[8749],{1478:e=>{e.exports=JSON.parse('{"label":"Lives","permalink":"/TikLiveApp/en/blog/tags/lives","allTagsPath":"/TikLiveApp/en/blog/tags","count":1,"unlisted":false}')}}]);
