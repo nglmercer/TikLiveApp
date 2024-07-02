@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nglmercer.github.io/TikLiveApp/blog</id>
-    <title>Tiktos-Twichi-LiveApp Blog</title>
+    <title>TiktokLiveWinApp Blog</title>
     <updated>2024-03-05T21:56:53.771Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://nglmercer.github.io/TikLiveApp/blog"/>
-    <subtitle>Tiktos-Twichi-LiveApp Blog</subtitle>
+    <subtitle>TiktokLiveWinApp Blog</subtitle>
     <icon>https://nglmercer.github.io/TikLiveApp/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[informacion basicaa]]></title>
